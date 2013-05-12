@@ -1,0 +1,31 @@
+{
+    "name":"Inspectlet Heatmaps and Screen Capture",
+    "description": "Inspectlet",
+    "version": "0.0.1a",
+    "category": "analytics",
+    "account": {
+        "callback_url": "https://www.inspectlet.com/cloudflare",
+        "user_fields": ["email"]
+    },
+    "billing": {
+        "type": "zone",
+        "plans":[
+            {
+                "name" : "Free",
+                "price": "0.00"
+            },
+            {
+                "name" : "Standard",
+                "price" : "39.99"
+            }
+        ]
+    },
+    "config":{
+        "details":{
+            "Language": "English",
+            "Price": "Free to install.",
+            "Restrictions": "None",
+            "TOS": "<a href='http://www.inspectlet.com/legal' target='_blank'>Terms of Service</a>"
+        }
+    }
+}
