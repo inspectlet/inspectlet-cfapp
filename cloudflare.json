@@ -1,5 +1,5 @@
 {
-    "name":"Inspectlet Heatmaps and Screen Capture",
+    "name":"Inspectlet",
     "description": "Inspectlet",
     "version": "0.0.1a",
     "category": "analytics",
@@ -21,11 +21,15 @@
         ]
     },
     "config":{
-        "details":{
+        "details": {
             "Language": "English",
             "Price": "Free to install.",
             "Restrictions": "None",
             "TOS": "<a href='http://www.inspectlet.com/legal' target='_blank'>Terms of Service</a>"
+        },
+        "assets": {
+            "200px": "./public/images/logo-200.png",
+            "132px": "./public/images/logo-132.png"
         }
     }
 }
