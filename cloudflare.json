@@ -18,6 +18,14 @@
             {
                 "name" : "Standard",
                 "price" : "39.99"
+            },
+            {
+                "name" : "Pro",
+                "price" : "69.99"
+            },
+            {
+                "name" : "Large",
+                "price" : "119.99"
             }
         ]
     },
