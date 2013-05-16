@@ -28,8 +28,10 @@
             "TOS": "<a href='http://www.inspectlet.com/legal' target='_blank'>Terms of Service</a>"
         },
         "assets": {
-            "200px": "./public/images/logo-200.png",
-            "132px": "./public/images/logo-132.png"
+            "logos": {
+                "200px": "./public/images/logo-200.png",
+                "132px": "./public/images/logo-132.png"
+            }
         }
     }
 }
