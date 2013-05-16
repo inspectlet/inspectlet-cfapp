@@ -3,6 +3,7 @@
     "description": "Inspectlet",
     "version": "0.0.1a",
     "category": "analytics",
+    "main": "public/javascripts/inspectlet.js",
     "account": {
         "callback_url": "https://www.inspectlet.com/cloudflare",
         "user_fields": ["email"]
@@ -32,6 +33,7 @@
                 "200px": "./public/images/logo-200.png",
                 "132px": "./public/images/logo-132.png"
             }
-        }
+        },
+        "has_js": true
     }
 }
