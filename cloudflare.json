@@ -1,7 +1,7 @@
 {
     "name":"Inspectlet",
     "description": "Inspectlet",
-    "version": "0.0.1a",
+    "version": "0.0.1b",
     "category": "analytics",
     "main": "public/javascripts/inspectlet.js",
     "account": {
