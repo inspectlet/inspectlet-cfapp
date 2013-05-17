@@ -1,7 +1,7 @@
 {
     "name":"Inspectlet",
     "description": "Inspectlet",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "category": "analytics",
     "main": "public/javascripts/inspectlet.js",
     "account": {
@@ -31,7 +31,7 @@
     },
     "config":{
         "details": {
-            "Category": "Web Analytics and Conversion Optimization",
+            "Category": "Web Analytics<br />Conversion Optimization",
             "Price": "Free to install.",
             "Inspectlet": "<a href='http://www.inspectlet.com/legal' target='_blank'>Terms of Service</a>"
         },
@@ -41,7 +41,8 @@
                 "132px": "./public/images/logo-132.png"
             },
             "detail_page": [
-                "./public/images/heatmaps-eyetracking.png"
+                "./public/images/heatmaps-eyetracking2.png",
+                "./public/images/screen-capture-image.png"
             ]
         },
         "has_js": true
