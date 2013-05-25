@@ -1,7 +1,7 @@
 {
     "name":"Inspectlet",
     "description": "Inspectlet",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "category": "analytics",
     "main": "public/javascripts/inspectlet.js",
     "account": {
@@ -11,10 +11,6 @@
     "billing": {
         "type": "zone",
         "plans":[
-            {
-                "name" : "Free",
-                "price": "0.00"
-            },
             {
                 "name" : "Standard",
                 "price" : "39.99"

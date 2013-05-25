@@ -3,7 +3,7 @@ Watch recordings of visitors using your site. Inspectlet lets you __watch and an
 __See every mouse movement, scrolling, clicks, and typing on your site.__
 
 
-### Record and watch everything your visitors do.
+### Record and Watch Everything Your Visitors Do.
 
 With screen capture you can watch someone using your site.
 
@@ -13,7 +13,7 @@ With screen capture you can watch someone using your site.
 
 Description and picture.
 
-### Eye-tracking Heatmaps
+### Eye-Tracking Heatmaps
 
 See where your visitors are looking and what parts of the site they're reading by visualizing their mouse movements.
 
